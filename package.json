@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "react": "cd src/reactjs && npm run start",
     "angular": "cd src/angular && npm run start",
+    "svelte": "cd src/svelte && npm run dev -- --open",
     "vue": "cd src/vuejs && npm run dev",
     "next": "cd src/nextjs && npm run dev",
     "nuxt": "cd src/nuxtjs && npm run dev -- -o"
