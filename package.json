@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "vue": "cd src/vuejs && npm run dev",
     "react": "cd src/reactjs && npm run start",
     "next": "cd src/nextjs && npm run dev",
     "nuxt": "cd src/nuxtjs && npm run dev -- -o"
