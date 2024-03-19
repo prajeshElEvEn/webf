@@ -5,8 +5,12 @@ trying out all the web frameworks/libraries
 ## Frameworks/Libraries
 
 - reactjs
-- angular
+- angularjs
 - vuejs
-- svelte
+- sveltejs
 - nextjs
 - nuxtjs
+- solidjs
+- emberjs
+- stenciljs
+- gatsby

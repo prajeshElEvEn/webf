@@ -14,7 +14,8 @@
     "ember": "cd src/emberjs && npm run start",
     "solid": "cd src/solidjs && npm run dev",
     "stencil": "cd src/stenciljs && npm run start",
-    "gatsby": "cd src/gatsbyjs && npm run develop"
+    "gatsby": "cd src/gatsbyjs && npm run develop",
+    "docusaurus": "cd src/docusaurusjs && npm run start"
   },
   "keywords": [],
   "author": "",
