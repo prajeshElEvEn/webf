@@ -7,5 +7,6 @@ trying out all the web frameworks/libraries
 - reactjs
 - angular
 - vuejs
+- svelte
 - nextjs
 - nuxtjs
