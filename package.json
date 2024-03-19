@@ -6,13 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "react": "cd src/reactjs && npm run start",
-    "angular": "cd src/angular && npm run start",
+    "angular": "cd src/angularjs && npm run start",
     "vue": "cd src/vuejs && npm run dev",
-    "svelte": "cd src/svelte && npm run dev -- --open",
+    "svelte": "cd src/sveltejs && npm run dev -- --open",
     "next": "cd src/nextjs && npm run dev",
     "nuxt": "cd src/nuxtjs && npm run dev -- -o",
     "ember": "cd src/emberjs && npm run start",
-    "solid": "cd src/solidjs && npm run dev"
+    "solid": "cd src/solidjs && npm run dev",
+    "stencil": "cd src/stenciljs && npm run start"
   },
   "keywords": [],
   "author": "",
