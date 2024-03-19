@@ -13,7 +13,8 @@
     "nuxt": "cd src/nuxtjs && npm run dev -- -o",
     "ember": "cd src/emberjs && npm run start",
     "solid": "cd src/solidjs && npm run dev",
-    "stencil": "cd src/stenciljs && npm run start"
+    "stencil": "cd src/stenciljs && npm run start",
+    "gatsby": "cd src/gatsbyjs && npm run develop"
   },
   "keywords": [],
   "author": "",
