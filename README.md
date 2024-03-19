@@ -14,3 +14,4 @@ trying out all the web frameworks/libraries
 - emberjs
 - stenciljs
 - gatsby
+- docusaurus
